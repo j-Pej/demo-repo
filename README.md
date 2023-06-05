@@ -6,6 +6,6 @@ Some description!
 
 Test
 
-## Local Development
+## Local Developmentge
 
 1. Open index.html on your browser.
